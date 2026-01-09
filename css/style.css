@@ -909,8 +909,6 @@ ul {
   }
   
   .icons-content {
-    width: 50px;
-    height: 50px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -918,6 +916,7 @@ ul {
 
   .icons-content img {
     height: auto;
+    margin: 15px;
   }
 
   /* ====== FOOTER ====== */
@@ -1022,4 +1021,5 @@ ul {
 .modal-close:hover {
   color: #ccc;
 }
+
 
