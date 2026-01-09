@@ -909,16 +909,14 @@ ul {
   }
   
   .icons-content {
-    min-width: 48px;
-    max-width: 64px;
+    width: 50px;
+    height: 50px;
     display: flex;
     align-items: center;
     justify-content: center;
   }
 
   .icons-content img {
-    width: 100%;
-    max-width: 32px;
     height: auto;
   }
 
@@ -1024,3 +1022,4 @@ ul {
 .modal-close:hover {
   color: #ccc;
 }
+
